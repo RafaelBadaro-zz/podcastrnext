@@ -1,3 +1,5 @@
+*Este foi um projeto realizado na NLW 5 da RocketSeat - trilha React Js
+
 Como rodar:
 
 O react: yarn dev
