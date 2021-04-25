@@ -8,4 +8,4 @@ O server: **yarn server**
 
 Para rodar como se fosse PRD: **yarn build  e yarn start**
 
-Para instalar alguma biblioteca: **yarn add *_{nome biblioteca}_**
+Para instalar alguma biblioteca: **yarn add _{nome biblioteca}_**
