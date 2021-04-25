@@ -1,4 +1,4 @@
-*Este foi um projeto realizado na NLW 5 da RocketSeat - trilha React Js*
+# ** Este foi um projeto realizado na NLW 5 da RocketSeat - trilha React Js **
 
 Como rodar:
 
